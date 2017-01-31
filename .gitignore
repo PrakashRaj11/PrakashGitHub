@@ -240,3 +240,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Test/Sample Simba Spark DSN.vivek.conmgr
+/Test/Test.database
+/Test/Package.dtsx
